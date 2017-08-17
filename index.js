@@ -1,1 +1,3 @@
-const server = require();
+'use strict';
+
+require('./src/core');
